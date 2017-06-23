@@ -3,7 +3,7 @@
 const express = require('express');
 
 // Constants
-const PORT = 8022;
+const PORT = 2280;
 
 // App
 const app = express();
